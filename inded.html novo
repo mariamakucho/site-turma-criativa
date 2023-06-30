@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, intial-scale=1.0">
+<title>Alurabooks</title> 
+<link rel="stylesheet" href="reset.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header class="cabeçalho" >
+<span class="cabeçalho__menu-bebidas"> </span>
+<img src="img/logo.svg" alt="logo da alurabooks">
+<a href="#" ><img src   ></a>
+
+</header>
+</body>
+
+</html> 
